@@ -1,0 +1,42 @@
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+.backdrop{
+   
+    background-color: rgb(210, 248, 214);
+
+}
+/* #features-backdrop{
+    min-height: 100vh;
+    width: 100%;
+} */
+
+#home-text{
+    position:relative;
+    text-align: center;
+    margin: 300px  auto;
+   
+    
+}
+
+.img-fluid1{
+    width: 25rem;
+    border-radius: 2%;
+}
+
+#aboutUs{
+    /* background-color: black; */
+}
+/* {
+    padding: 60px 0;
+    } */
+
+.signupBorder{
+    border: solid 2px;
+    margin: auto;
+    height: 80%;
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(210, 248, 214) ;
+}
